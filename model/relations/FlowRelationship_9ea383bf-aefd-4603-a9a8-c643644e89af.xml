@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OFDA"
+    id="9ea383bf-aefd-4603-a9a8-c643644e89af">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_9c1bfa78-9e86-4126-9f4c-48938b4f92c5.xml#9c1bfa78-9e86-4126-9f4c-48938b4f92c5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_c79e5945-5165-48a0-a274-1e4af299714b.xml#c79e5945-5165-48a0-a274-1e4af299714b"/>
+</archimate:FlowRelationship>
